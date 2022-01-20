@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Übungsseite</title>
+</head>
+<body>
+<h1>Urlaub</h1>
+<h2>Reiseziele in Corona-Zeiten</h2>
+<p>Ziele unserer Webseite:</p>
+<ul>
+    <li>Dropdown für Auswahl des Landes</li>
+    <li>Sucheingrenzung mit Checkboxen (Geimpft/Gebustert/Getestet)</li>
+    <li>Link zu jeweiligem Auswärtigen Amt</li>
+    <li><a href="html2.html">Länder, die in unserem Projekt includiert sein sollen</a></li>
+</ul>
+
+</body>
+</html>
